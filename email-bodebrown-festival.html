@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Festival Cultural de Outono Bodebrown</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { background: #000; font-family: Arial, Helvetica, sans-serif; }
+  .wrapper { max-width: 620px; margin: 0 auto; background: #000; color: #fff; }
+
+  /* HEADER */
+  .header { padding: 32px 40px 24px; text-align: center; border-bottom: 2px solid #ff2400; }
+  .header img { max-width: 260px; height: auto; display: block; margin: 0 auto; }
+
+  /* HERO */
+  .hero { padding: 36px 40px 28px; text-align: center; background: #0a0a0a; }
+  .hero-tag { font-size: 11px; letter-spacing: 4px; text-transform: uppercase; color: #ff2400; margin-bottom: 16px; }
+  .hero-body { font-size: 16px; line-height: 1.8; color: #d0d0d0; margin-bottom: 20px; }
+  .hero-body strong { color: #fff; }
+  .dates-badge { display: inline-block; border: 2px solid #ff2400; padding: 10px 28px; font-size: 13px; font-weight: bold; letter-spacing: 3px; text-transform: uppercase; color: #fff; margin-bottom: 8px; }
+
+  /* FEATURES */
+  .features { padding: 28px 40px; background: #000; }
+  .features-grid { display: table; width: 100%; border-collapse: separate; border-spacing: 12px; }
+  .feat-row { display: table-row; }
+  .feat { display: inline-block; width: 48%; vertical-align: top; background: #111; border: 1px solid #222; border-left: 3px solid #ff2400; padding: 14px 16px; margin-bottom: 12px; }
+  .feat-label { font-size: 11px; letter-spacing: 2px; text-transform: uppercase; color: #ff2400; margin-bottom: 4px; }
+  .feat-text { font-size: 14px; color: #ccc; line-height: 1.5; }
+  .features-inner { display: flex; flex-wrap: wrap; gap: 12px; }
+  .feat-item { flex: 1 1 calc(50% - 6px); background: #111; border: 1px solid #1e1e1e; border-left: 3px solid #ff2400; padding: 14px 16px; }
+
+  /* DIVIDER */
+  .divider { border: none; border-top: 1px solid #1e1e1e; margin: 4px 40px; }
+
+  /* COMBOS */
+  .combos { padding: 28px 40px; background: #0a0a0a; }
+  .combos-title { font-size: 11px; letter-spacing: 4px; text-transform: uppercase; color: #ff2400; margin-bottom: 20px; text-align: center; }
+
+  .combo { background: #111; border: 1px solid #333; margin-bottom: 16px; }
+  .combo.destaque { border: 2px solid #ff2400; }
+  .combo-header { background: #ff2400; padding: 10px 20px; }
+  .combo.destaque .combo-header { background: #ff2400; }
+  .combo-header-title { font-size: 14px; font-weight: bold; letter-spacing: 2px; text-transform: uppercase; color: #fff; }
+  .combo-header-badge { font-size: 11px; color: rgba(255,255,255,0.85); }
+  .combo-body { padding: 20px; }
+  .combo-items { list-style: none; margin-bottom: 16px; }
+  .combo-items li { font-size: 14px; color: #ccc; padding: 6px 0; border-bottom: 1px solid #1e1e1e; }
+  .combo-items li:last-child { border-bottom: none; }
+  .combo-items li::before { content: "→ "; color: #ff2400; font-weight: bold; }
+  .price-row { display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; }
+  .price-old { font-size: 13px; color: #555; text-decoration: line-through; }
+  .price-new { font-size: 30px; font-weight: 900; color: #ff2400; line-height: 1; }
+  .price-each { font-size: 13px; color: #777; }
+  .saving { display: inline-block; margin-top: 10px; font-size: 12px; color: #6fbf6f; background: #0d1f0d; border: 1px solid #1e3a1e; padding: 4px 12px; }
+  .cta-btn { display: block; margin-top: 16px; background: #ff2400; color: #fff; text-decoration: none; text-align: center; font-size: 13px; font-weight: bold; letter-spacing: 2px; text-transform: uppercase; padding: 14px 20px; }
+  .cta-btn:hover { background: #cc1d00; }
+
+  /* ALERT */
+  .alert { margin: 0 40px 28px; background: #0d0d0d; border-left: 4px solid #ff2400; padding: 16px 20px; font-size: 14px; color: #ccc; line-height: 1.7; }
+  .alert strong { color: #fff; }
+
+  /* RETIRADA */
+  .retirada { margin: 0 40px 28px; background: #111; border: 1px solid #1e1e1e; padding: 14px 20px; font-size: 13px; color: #999; line-height: 1.7; text-align: center; }
+  .retirada strong { color: #ff2400; }
+
+  /* FOOTER */
+  .footer { background: #000; border-top: 2px solid #ff2400; padding: 28px 40px; text-align: center; }
+  .footer-logo { font-size: 22px; font-weight: 900; letter-spacing: 4px; color: #fff; text-transform: uppercase; margin-bottom: 4px; }
+  .footer-tagline { font-size: 11px; letter-spacing: 3px; color: #ff2400; text-transform: uppercase; margin-bottom: 20px; }
+  .footer-small { font-size: 11px; color: #333; line-height: 1.8; }
+  .footer-small a { color: #555; }
+</style>
+</head>
+<body>
+<div class="wrapper">
+
+  <!-- HEADER -->
+  <div class="header">
+    <!-- Substitua o src abaixo pela URL da imagem hospedada no RD Station -->
+    <img src="COLE_AQUI_URL_DA_LOGO" alt="Festival Cultural Bodebrown" />
+  </div>
+
+  <!-- HERO -->
+  <div class="hero">
+    <div class="hero-tag">O retorno que você esperava</div>
+    <p class="hero-body">
+      A Rua da Cerveja voltou — e vamos comemorar do melhor jeito.<br>
+      Depois das reformas, melhorias e toda a pancadaria necessária pra deixar esse espaço do jeito que a Bodebrown merece, estamos de volta.<br><br>
+      <strong>Mais fortes. Mais estruturados. Mais preparados pra receber vocês.</strong><br><br>
+      São <strong>4 dias de Festival Cultural de Outono Bodebrown</strong> com rock and roll, chope artesanal, gastronomia do mundo, apresentações folclóricas e espaço kids. Uma programação feita pra todo mundo viver a Bodebrown de verdade.
+    </p>
+    <div class="dates-badge">04 · 05 · 06 · 07 de Junho de 2026</div>
+  </div>
+
+  <!-- FEATURES -->
+  <div class="features">
+    <div class="features-inner">
+      <div class="feat-item">
+        <div class="feat-label">Música</div>
+        <div class="feat-text">Mais de 10 bandas e grupos folclóricos ao vivo</div>
+      </div>
+      <div class="feat-item">
+        <div class="feat-label">Gastronomia</div>
+        <div class="feat-text">Culinária de vários cantos do mundo</div>
+      </div>
+      <div class="feat-item">
+        <div class="feat-label">Cerveja Artesanal</div>
+        <div class="feat-text">O melhor chope artesanal direto da Bodebrown</div>
+      </div>
+      <div class="feat-item">
+        <div class="feat-label">Espaço Kids</div>
+        <div class="feat-text">Festival pensado para toda a família</div>
+      </div>
+    </div>
+  </div>
+
+  <hr class="divider">
+
+  <!-- COMBOS -->
+  <div class="combos">
+    <div class="combos-title">Combos Oficiais do Festival — Preço Antecipado</div>
+
+    <!-- COMBO 12 (destaque) -->
+    <div class="combo destaque">
+      <div class="combo-header">
+        <div class="combo-header-title">Combo 12 Chopes + Copo Oficial</div>
+        <div class="combo-header-badge">Para quem não quer festival pela metade</div>
+      </div>
+      <div class="combo-body">
+        <ul class="combo-items">
+          <li>12 fichas de chope 300ml — preço antecipado exclusivo</li>
+          <li>1 copo oficial do festival formato lata — edição limitada</li>
+        </ul>
+        <div class="price-row">
+          <span class="price-old">R$ 22,50 / ficha</span>
+          <span class="price-new">R$ 16,60</span>
+          <span class="price-each">cada ficha</span>
+        </div>
+        <div class="saving">✓ Economia de R$ 71,20 no total</div>
+        <a href="https://loja.bodebrown.com.br/combo-12-chopes-copo-oficial-do-festival/" class="cta-btn">De R$ 270,00 · Por R$ 199,20 — Garantir →</a>
+      </div>
+    </div>
+
+    <!-- COMBO 6 -->
+    <div class="combo">
+      <div class="combo-header" style="background:#1a1a1a; border-bottom: 2px solid #ff2400;">
+        <div class="combo-header-title" style="color:#fff;">Combo 6 Chopes + Copo Oficial</div>
+        <div class="combo-header-badge" style="color:#999;">Preço antecipado exclusivo</div>
+      </div>
+      <div class="combo-body">
+        <ul class="combo-items">
+          <li>6 fichas de chope 300ml — preço antecipado exclusivo</li>
+          <li>1 copo oficial do festival formato lata — edição limitada</li>
+        </ul>
+        <div class="price-row">
+          <span class="price-old">R$ 22,50 / ficha</span>
+          <span class="price-new">R$ 21,50</span>
+          <span class="price-each">cada ficha</span>
+        </div>
+        <div class="saving">✓ Economia de R$ 41,00 no total</div>
+        <a href="https://loja.bodebrown.com.br/combo-6-chopes-copo-oficial-do-festival/" class="cta-btn">De R$ 170,00 · Por R$ 129,00 — Garantir →</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- ALERT -->
+  <div class="alert">
+    <strong>⚠ Atenção: este preço é só antecipado.</strong> No dia do festival, o valor sobe — e as filas também. Comprando agora, você passa <strong>uma única vez pelo guichê de retirada</strong>, pega tudo de uma vez e o festival é seu. Sem fila no meio de uma música boa.
+  </div>
+
+  <!-- RETIRADA -->
+  <div class="retirada">
+    <strong>Retirada exclusiva no evento</strong><br>
+    Este item não é entregue. A retirada é feita presencialmente nos guichês identificados para combos<br>durante o festival — de 04 a 07 de junho de 2026.<br>
+    📍 Rua da Cerveja Bodebrown — Curitiba, PR
+  </div>
+
+  <!-- FOOTER -->
+  <div class="footer">
+    <div class="footer-logo">Bodebrown</div>
+    <div class="footer-tagline">Be Bold · Go Craft</div>
+    <div class="footer-small">
+      Você está recebendo este e-mail porque é cliente ou seguidor da Bodebrown.<br>
+      <a href="#">Cancelar inscrição</a>
+    </div>
+  </div>
+
+</div>
+</body>
+</html>
