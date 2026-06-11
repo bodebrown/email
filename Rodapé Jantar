@@ -1,0 +1,67 @@
+<!-- INFORMAÇÕES PRÁTICAS -->
+<tr>
+  <td bgcolor="#111111" style="padding:28px 32px;">
+    <p style="margin:0 0 16px 0;font-family:Arial,Helvetica,sans-serif;font-size:10px;font-weight:700;letter-spacing:3px;color:#FF4200;text-transform:uppercase;text-align:center;">Informações Importantes</p>
+    <table width="100%" cellpadding="0" cellspacing="0" border="0">
+      <tr>
+        <td valign="top" width="50%" style="padding:0 12px 0 0;">
+          <p style="margin:0 0 6px 0;font-family:Arial,Helvetica,sans-serif;font-size:12px;font-weight:700;color:#ffffff;">📅 Data e Horário</p>
+          <p style="margin:0 0 16px 0;font-family:Arial,Helvetica,sans-serif;font-size:12px;line-height:1.7;color:#999999;">11 de junho de 2026<br/>Recepção às 19h<br/>Encerramento às 22h45</p>
+          <p style="margin:0 0 6px 0;font-family:Arial,Helvetica,sans-serif;font-size:12px;font-weight:700;color:#ffffff;">📍 Local</p>
+          <p style="margin:0;font-family:Arial,Helvetica,sans-serif;font-size:12px;line-height:1.7;color:#999999;">Loja da Fábrica Bodebrown<br/>Rua Carlos de Laet, 1015<br/>Hauer — Curitiba/PR</p>
+        </td>
+        <td valign="top" width="50%" style="padding:0 0 0 12px;">
+          <p style="margin:0 0 6px 0;font-family:Arial,Helvetica,sans-serif;font-size:12px;font-weight:700;color:#ffffff;">🎟 Entrada</p>
+          <p style="margin:0 0 16px 0;font-family:Arial,Helvetica,sans-serif;font-size:12px;line-height:1.7;color:#999999;">Pelo <strong style="color:#ffffff;">Nome na Lista</strong>.<br/>Não é necessário imprimir ingresso.<br/>Basta chegar e se identificar.</p>
+          <p style="margin:0 0 6px 0;font-family:Arial,Helvetica,sans-serif;font-size:12px;font-weight:700;color:#ffffff;">⚠ Restrição de idade</p>
+          <p style="margin:0;font-family:Arial,Helvetica,sans-serif;font-size:12px;line-height:1.7;color:#999999;">Evento exclusivo para maiores de 18 anos.<br/>Crianças não são permitidas.</p>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+
+<!-- ALÉRGENOS -->
+<tr>
+  <td bgcolor="#0a0a0a" style="padding:20px 32px;border-top:1px solid #333333;">
+    <p style="margin:0 0 8px 0;font-family:Arial,Helvetica,sans-serif;font-size:10px;font-weight:700;letter-spacing:2px;color:#aaaaaa;text-transform:uppercase;">⚠ Informações sobre Alérgenos</p>
+    <p style="margin:0;font-family:Arial,Helvetica,sans-serif;font-size:11px;line-height:1.7;color:#777777;">
+      O menu desta noite contém ou pode conter: <strong style="color:#aaaaaa;">glúten</strong> (cervejas e preparações), <strong style="color:#aaaaaa;">laticínios</strong> (queijos, cremes), <strong style="color:#aaaaaa;">ovos</strong> (sobremesas), <strong style="color:#aaaaaa;">oleaginosas</strong> (castanhas, nozes) e <strong style="color:#aaaaaa;">carne suína</strong> (Boulet à la Liégeoise). Restrições alimentares? Fale conosco com antecedência pelo WhatsApp <strong style="color:#aaaaaa;">(41) 99101-9647</strong>.
+    </p>
+  </td>
+</tr>
+
+<!-- CTA -->
+<tr>
+  <td bgcolor="#000000" align="center" style="padding:36px 32px;">
+    <p style="margin:0 0 20px 0;font-family:Georgia,'Times New Roman',serif;font-size:18px;color:#cccccc;font-style:italic;text-align:center;">Até logo. A noite vai ser memorável.</p>
+    <a href="https://loja.bodebrown.com.br/jantar-carbonade-flamande-11-06-26/" style="display:inline-block;background-color:#FF4200;color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:12px;font-weight:700;letter-spacing:3px;text-transform:uppercase;text-decoration:none;padding:14px 36px;">
+      Ver Detalhes do Evento
+    </a>
+  </td>
+</tr>
+
+<!-- FOOTER -->
+<tr>
+  <td bgcolor="#000000" style="padding:28px 32px;border-top:1px solid #222222;">
+    <table width="100%" cellpadding="0" cellspacing="0" border="0">
+      <tr>
+        <td align="center">
+          <img src="https://loja.bodebrown.com.br/media/logo/websites/1/Logo_269x52.png" alt="Bodebrown" width="160" style="display:block;margin:0 auto 16px;" />
+          <p style="margin:0 0 6px 0;font-family:Arial,Helvetica,sans-serif;font-size:11px;color:#FF4200;text-align:center;letter-spacing:2px;text-transform:uppercase;">Be Bold. Go Craft.</p>
+          <p style="margin:0 0 12px 0;font-family:Arial,Helvetica,sans-serif;font-size:11px;color:#666666;text-align:center;line-height:1.8;">
+            Rua Carlos de Laet, 1015 — Hauer — Curitiba/PR<br/>
+            SAC: <a href="mailto:sac@bodebrown.com.br" style="color:#999999;text-decoration:none;">sac@bodebrown.com.br</a>  ·  (41) 3020-4953
+          </p>
+          <p style="margin:0 0 10px 0;font-family:Arial,Helvetica,sans-serif;font-size:10px;color:#444444;text-align:center;line-height:1.6;">
+            Você está recebendo este e-mail porque realizou uma compra na Bodebrown.<br/>
+            Conteúdo destinado exclusivamente a maiores de 18 anos.
+          </p>
+          <p style="margin:0;font-family:Arial,Helvetica,sans-serif;font-size:10px;text-align:center;">
+            <a href="#" style="color:#555555;text-decoration:underline;">Descadastrar</a>
+          </p>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
