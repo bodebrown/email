@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quarta do Bode - Bloco 1</title>
+</head>
+<body style="margin:0;padding:0;background-color:#000000;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+
+  <!-- BLOCO 1 -->
+  <table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#000000;">
+    <tr>
+      <td align="center" style="padding:0;">
+        <table width="600" cellpadding="0" cellspacing="0" border="0" style="max-width:600px;width:100%;">
+
+          <!-- SELO QUARTA DO BODE -->
+          <tr>
+            <td align="center" style="padding:40px 40px 10px 40px;">
+              <span style="display:inline-block;background-color:#ff4200;color:#ffffff;font-size:13px;font-weight:700;letter-spacing:3px;text-transform:uppercase;padding:8px 20px;border-radius:4px;">
+                🐐 QUARTA DO BODE
+              </span>
+            </td>
+          </tr>
+
+          <!-- HEADLINE PRINCIPAL -->
+          <tr>
+            <td align="center" style="padding:20px 40px 10px 40px;">
+              <h1 style="margin:0;color:#ffffff;font-size:40px;font-weight:900;line-height:1.15;text-align:center;text-transform:uppercase;letter-spacing:-1px;">
+                3 Cervejas pra uma<br>
+                <span style="color:#ff4200;">Semana Phodástica!</span>
+              </h1>
+            </td>
+          </tr>
+
+          <!-- SUBTÍTULO -->
+          <tr>
+            <td align="center" style="padding:16px 50px 32px 50px;">
+              <p style="margin:0;color:#cccccc;font-size:16px;line-height:1.6;text-align:center;">
+                Toda quarta, o Bode aparece com uma oportunidade que você não vai querer deixar passar. Hoje o destaque é um combo com <strong style="color:#ffffff;">três clássicos da casa</strong> pra você beber com estilo do início ao fim da semana.
+              </p>
+            </td>
+          </tr>
+
+          <!-- DIVISOR -->
+          <tr>
+            <td align="center" style="padding:0 40px 32px 40px;">
+              <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                  <td style="border-top:1px solid #ff4200;font-size:0;line-height:0;"> </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+        </table>
+      </td>
+    </tr>
+  </table>
+
+</body>
+</html>
