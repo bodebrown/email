@@ -95,26 +95,6 @@
             </td>
           </tr>
 
-          <!-- CTA BOTÃO -->
-          <tr>
-            <td align="center" style="padding:32px 40px 16px 40px;">
-              <a href="https://loja.bodebrown.com.br/combo-3-cervejas-refrescantes-bodebrown-oculos-laranja/"
-                 target="_blank"
-                 style="display:inline-block;background-color:#ff4200;color:#ffffff;font-size:17px;font-weight:800;text-decoration:none;text-transform:uppercase;letter-spacing:2px;padding:18px 48px;border-radius:6px;">
-                🛒 Peça no Site
-              </a>
-            </td>
-          </tr>
-
-          <!-- SLOGAN -->
-          <tr>
-            <td align="center" style="padding:16px 40px 40px 40px;">
-              <p style="margin:0;color:#555555;font-size:13px;text-align:center;letter-spacing:2px;text-transform:uppercase;font-style:italic;">
-                Be Bold. Go Craft!
-              </p>
-            </td>
-          </tr>
-
         </table>
       </td>
     </tr>
