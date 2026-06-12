@@ -1,0 +1,52 @@
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background-color:#000000; margin:0; padding:0;">
+  <tr>
+    <td align="center" style="padding:30px 20px;">
+      <table role="presentation" width="600" cellpadding="0" cellspacing="0" style="max-width:600px; width:100%;">
+
+        <!-- Título -->
+        <tr>
+          <td style="padding:10px 20px 20px 20px; text-align:center;">
+            <h1 style="margin:0; font-family:Georgia,'Times New Roman',serif; font-size:28px; line-height:1.3; color:#D4AF37; font-weight:bold;">
+              Uma Dry Stout que aprendeu italiano
+            </h1>
+            <p style="margin:8px 0 0 0; font-family:Georgia,serif; font-size:18px; color:#C9A66B; font-style:italic;">
+              — com sotaque da Amazônia.
+            </p>
+          </td>
+        </tr>
+
+        <!-- Linha dourada -->
+        <tr>
+          <td style="padding:0 20px;">
+            <div style="height:2px; background-color:#D4AF37; width:80px; margin:0 auto;"></div>
+          </td>
+        </tr>
+
+        <!-- Texto de estilo -->
+        <tr>
+          <td style="padding:25px 30px; text-align:center;">
+            <p style="margin:0 0 18px 0; font-family:Arial,Helvetica,sans-serif; font-size:16px; line-height:1.7; color:#FFFFFF;">
+              O estilo <strong style="color:#C9A66B;">Dry Stout</strong> é um clássico que dispensa apresentação: cor preta profunda, espuma cremosa, amargor honesto, e aquela secura característica no final que convida ao próximo gole.
+            </p>
+            <p style="margin:0 0 18px 0; font-family:Arial,Helvetica,sans-serif; font-size:16px; line-height:1.7; color:#FFFFFF;">
+              A <strong style="color:#D4AF37;">Bodebrown</strong> pegou esse mapa e fez algo diferente.
+            </p>
+            <p style="margin:0; font-family:Arial,Helvetica,sans-serif; font-size:16px; line-height:1.7; color:#FFFFFF;">
+              Inspirada no <strong style="color:#C9A66B;">Tiramisú</strong> — a sobremesa italiana de café, mascarpone e rum — esta Stout vai além do óbvio. O perfil de café espresso e chocolate meio amargo que você espera de um Dry Stout clássico está lá, ao melhor estilo Bodebrown, com os maltes <em style="color:#C9A66B;">Maris Otter</em> e <em style="color:#C9A66B;">Cevada Torrada</em> dando classe à bebida.
+            </p>
+          </td>
+        </tr>
+
+        <!-- Chamada para os diferenciais -->
+        <tr>
+          <td style="padding:0 30px 20px 30px; text-align:center;">
+            <p style="margin:0; font-family:Georgia,serif; font-size:20px; color:#D4AF37; font-weight:bold;">
+              Mas aí entram os diferenciais...
+            </p>
+          </td>
+        </tr>
+
+      </table>
+    </td>
+  </tr>
+</table>
