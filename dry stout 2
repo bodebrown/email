@@ -1,0 +1,54 @@
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background-color:#000000; margin:0; padding:0;">
+  <tr>
+    <td align="center" style="padding:30px 20px;">
+      <table role="presentation" width="600" cellpadding="0" cellspacing="0" style="max-width:600px; width:100%;">
+
+        <!-- Diferencial 1 -->
+        <tr>
+          <td style="padding:12px 25px; background-color:#1a1208; border-left:3px solid #D4AF37;">
+            <p style="margin:0; font-family:Arial,Helvetica,sans-serif; font-size:16px; line-height:1.6; color:#FFFFFF;">
+              🌿 <strong style="color:#C9A66B;">Fava Tonka (Cumaru)</strong> — a baunilha da Amazônia, trazendo suavidade e uma complexidade que você não vai encontrar em qualquer Stout por aí.
+            </p>
+          </td>
+        </tr>
+        <tr><td style="height:10px; line-height:10px;"> </td></tr>
+
+        <!-- Diferencial 2 -->
+        <tr>
+          <td style="padding:12px 25px; background-color:#1a1208; border-left:3px solid #D4AF37;">
+            <p style="margin:0; font-family:Arial,Helvetica,sans-serif; font-size:16px; line-height:1.6; color:#FFFFFF;">
+              🌰 <strong style="color:#C9A66B;">Noz-moscada</strong> — especiaria quente que arredonda o perfil e faz a cabeça viajar direto para uma xícara de espresso com um pedaço da sobremesa ao lado.
+            </p>
+          </td>
+        </tr>
+        <tr><td style="height:10px; line-height:10px;"> </td></tr>
+
+        <!-- Diferencial 3 -->
+        <tr>
+          <td style="padding:12px 25px; background-color:#1a1208; border-left:3px solid #D4AF37;">
+            <p style="margin:0; font-family:Arial,Helvetica,sans-serif; font-size:16px; line-height:1.6; color:#FFFFFF;">
+              🍶 <strong style="color:#C9A66B;">Notas de rum no aroma</strong> — que completam a referência ao Tiramisú original com precisão.
+            </p>
+          </td>
+        </tr>
+
+        <!-- Linha dourada -->
+        <tr>
+          <td style="padding:30px 20px 25px 20px;">
+            <div style="height:2px; background-color:#D4AF37; width:80px; margin:0 auto;"></div>
+          </td>
+        </tr>
+
+        <!-- Fechamento -->
+        <tr>
+          <td style="padding:0 30px 10px 30px; text-align:center;">
+            <p style="margin:0; font-family:Georgia,serif; font-size:18px; line-height:1.7; color:#FFFFFF;">
+              Uma cerveja <strong style="color:#D4AF37;">escura</strong>, fácil de beber. Com apenas <strong style="color:#C9A66B;">3,8% de álcool</strong>, traz um sabor que remete a <strong style="color:#C9A66B;">café, cacau e chocolate meio amargo</strong>, combinados com caramelo e especiarias.
+            </p>
+          </td>
+        </tr>
+
+      </table>
+    </td>
+  </tr>
+</table>
